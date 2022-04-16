@@ -11,6 +11,10 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon app.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zeroking99/ATTM.git"
+    },
     "author": "",
     "license": "ISC",
     "description": ""
